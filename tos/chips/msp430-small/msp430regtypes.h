@@ -884,6 +884,7 @@
 #define TYPE_PORT_DIR uint8_t
 #define TYPE_PORT_IN uint8_t
 #define TYPE_PORT_OUT uint8_t
+#define TYPE_PORT_REN uint8_t
 #define TYPE_PORT_SEL uint8_t
 #define TYPE_RCCTL0 uint16_t
 #define TYPE_RCCTL0_H uint8_t
@@ -1056,7 +1057,6 @@
 #define TYPE_RTCTIM1 uint16_t
 #define TYPE_RTCTIM1_H uint8_t
 #define TYPE_RTCTIM1_L uint8_t
-#define TYPE_RTCTL uint16_t
 #define TYPE_RTCTL uint8_t
 #define TYPE_RTCYEAR uint16_t
 #define TYPE_RTCYEARH uint8_t
