@@ -99,6 +99,9 @@
 #elif defined(__MSP430G2553__)
 #include "errata/slaz440.h"
 
+#elif defined(__MSP430G2955__)
+#include "errata/slaz441.h"
+
 #else
 #error "Couldn't find a errata for the specified device"
 
